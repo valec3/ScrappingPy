@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Ensalada de salmon a la parrilla",
+        "link": "https://www.solucionesparaladiabetes.com/magazine-diabetes/ensalada-de-salmon-a-la-parrilla/",
+        "img": "https://www.solucionesparaladiabetes.com/magazine-diabetes/wp-content/uploads/salmon-ensalada-218x150.jpg",
+        "calories": "270 cal"
+    },
+    {
+        "title": "Patatas gratinadas al horno",
+        "link": "https://www.solucionesparaladiabetes.com/magazine-diabetes/patatas-gratinadas-al-horno/",
+        "img": "https://www.solucionesparaladiabetes.com/magazine-diabetes/wp-content/uploads/patatas-gratinadas-218x150.jpg",
+        "calories": "170"
+    },
+    {
+        "title": "Ketchup casero",
+        "link": "https://www.solucionesparaladiabetes.com/magazine-diabetes/ketchup-casero/",
+        "img": "https://www.solucionesparaladiabetes.com/magazine-diabetes/wp-content/uploads/ketchup-curry-218x150.jpg",
+        "calories": "20 kcal"
+    },
+    {
+        "title": "Burritos con queso y huevo",
+        "link": "https://www.solucionesparaladiabetes.com/magazine-diabetes/burritos-con-queso-y-huevo/",
+        "img": "https://www.solucionesparaladiabetes.com/magazine-diabetes/wp-content/uploads/burrito-218x150.jpg",
+        "calories": "200"
+    },
+    {
+        "title": "Berenjenas rellenas de carne",
+        "link": "https://www.solucionesparaladiabetes.com/magazine-diabetes/berenjenas-rellenas-de-carne/",
+        "img": "https://www.solucionesparaladiabetes.com/magazine-diabetes/wp-content/uploads/berenjena-rellena-218x150.jpg",
+        "calories": "350 kcal"
+    },
+    {
+        "title": "Ensalada de mozzarella fresca, tomate y albahaca",
+        "link": "https://www.solucionesparaladiabetes.com/magazine-diabetes/ensalada-de-mozzarella-fresca-tomate-y-albahaca/",
+        "img": "https://www.solucionesparaladiabetes.com/magazine-diabetes/wp-content/uploads/tomate-mozzarella-218x150.jpg",
+        "calories": "60"
+    },
+    {
+        "title": "Pechugas de pollo al vinagre balsámico y champiñones",
+        "link": "https://www.solucionesparaladiabetes.com/magazine-diabetes/pechugas-de-pollo-al-vinagre-balsamico-y-champinones/",
+        "img": "https://www.solucionesparaladiabetes.com/magazine-diabetes/wp-content/uploads/pechuga-pollo-218x150.png",
+        "calories": "60"
+    },
+    {
+        "title": "Zanahorias baby al horno",
+        "link": "https://www.solucionesparaladiabetes.com/magazine-diabetes/zanahorias-baby-al-horno/",
+        "img": "https://www.solucionesparaladiabetes.com/magazine-diabetes/wp-content/uploads/zanahorias-baby-218x150.jpg",
+        "calories": "60"
+    },
+    {
+        "title": "Crema de zanahoria",
+        "link": "https://www.solucionesparaladiabetes.com/magazine-diabetes/crema-de-zanahoria/",
+        "img": "https://www.solucionesparaladiabetes.com/magazine-diabetes/wp-content/uploads/pexels-photo-539451-218x150.jpeg",
+        "calories": "166"
+    },
+    {
+        "title": "Pollo asado al horno",
+        "link": "https://www.solucionesparaladiabetes.com/magazine-diabetes/pollo-asado-al-horno/",
+        "img": "https://www.solucionesparaladiabetes.com/magazine-diabetes/wp-content/uploads/pollo-asado-diabetes-218x150.jpg",
+        "calories": "166"
+    }
+]
